@@ -18,7 +18,7 @@ body {
 #all-products {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 10px;
+  grid-gap: 20px;
   /* border: 1px solid black; */
   text-align: center;
   width: 100%;
